@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-09-23T18:59:45.871Z'
-datePublished: '2017-09-23T18:59:47.065Z'
+dateModified: '2017-09-23T19:05:14.121Z'
+datePublished: '2017-09-23T19:05:15.067Z'
 title: 'Chains, beads & jewels'
 author: []
 publisher: {}
@@ -19,8 +19,6 @@ _type: Article
 
 ## the multi-usable pendant
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad4e4de7-7e8e-4acd-bf6c-eceb919c380f.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/46ef733b-e09c-48c4-bdfd-ba37c530227c.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7f41218-a4f6-4020-9984-759fb1b7f524.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e258d55-18f5-46d4-be9e-19d85b323f8b.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/73ddc403-c792-4f05-baca-d6209db99e37.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aaa325b9-2c63-46d5-861c-59870c20aa5d.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac4f39ac-cc7e-41fa-8c4d-d8f69170c98f.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c537cbef-c9b3-4223-9758-ed0fe6212a9c.jpg)
