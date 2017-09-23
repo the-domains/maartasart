@@ -1,0 +1,69 @@
+layout_spectrum: 0.8071473396429332
+typography_spectrum: 0.6874045574384752
+color:
+  brandStrength: 0.8941763044312818
+  lightness: 0.2771716284642162
+  saturation: 0.5534744585518458
+  rhythmicContrast: 0.9992345355309104
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+name: MAARTASART
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: About Maarta
+    id: 3bb7a414-8d8f-4582-b1f0-b11136f2c151
+    type: content
+  - name: Home decor
+    id: c3793838-1138-4b7b-b017-298b7c6744a2
+    type: content
+  - name: Jewels & Beads
+    id: 280911d9-ca59-4453-863e-246afd2b6e0e
+    type: content
+  - name: The book
+    id: b4c453c9-e497-4d71-a118-f27b07c6e531
+    type: content
+title: MAARTA
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/78a2e765-dde4-4f0b-9280-23dee6588bb1.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/78a2e765-dde4-4f0b-9280-23dee6588bb1.jpg
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: Multifacetted art & design
+github: true
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d625e54-7517-4484-88a3-4b5e4655800c.jpg
+favicon: null
+author:
+  name: Maarta
+  email: info@maarta.com
+  url: 'http://www.maarta.com'
