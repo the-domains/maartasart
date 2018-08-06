@@ -67,3 +67,7 @@ author:
   name: Maarta
   email: info@maarta.com
   url: 'http://www.maarta.com'
+purpose:
+  - type: contact
+    url: 'mailto:info@maarta.com'
+    label: Contact me
