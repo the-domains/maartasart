@@ -11,7 +11,7 @@ color:
     - '#999999'
     - '#4D4D4D'
     - '#333333'
-name: MAARTASART
+name: MAARTA
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -58,7 +58,7 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-description: Multifacetted art & design
+description: art & design
 github: true
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d625e54-7517-4484-88a3-4b5e4655800c.jpg
