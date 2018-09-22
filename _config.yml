@@ -26,9 +26,6 @@ navigation:
   - name: Home decor
     id: c3793838-1138-4b7b-b017-298b7c6744a2
     type: content
-  - name: Jewels & Beads
-    id: 280911d9-ca59-4453-863e-246afd2b6e0e
-    type: content
 title: MAARTA
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
