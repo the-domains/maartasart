@@ -29,9 +29,6 @@ navigation:
   - name: Jewels & Beads
     id: 280911d9-ca59-4453-863e-246afd2b6e0e
     type: content
-  - name: The book
-    id: b4c453c9-e497-4d71-a118-f27b07c6e531
-    type: content
 title: MAARTA
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
